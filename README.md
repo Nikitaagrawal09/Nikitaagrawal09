@@ -41,11 +41,23 @@ Each project I work on aims to simplify complexity, enhance clarity, and deliver
 
 ## 💬 A Bit About Me
 
-- 🧠 Always asking “why?” before “what” – because context drives solutions  
-- ✍️ Passionate about making data accessible for everyone  
-- 🤝 Thrive on teamwork, feedback, and learning something new every day  
-- 📚 Constantly improving my data toolkit  
-- ⚡ A mix of analytical thinking and creative flair  
+I'm Nikita Agarwal, a passionate data analyst with a dynamic background in engineering and a knack for uncovering insights that drive impactful decisions. I thrive on solving complex problems with data-driven strategies.
+
+🌟 What I Bring to the Table -
+
+📊 Data Visualization: Crafting visuals that distill complex datasets into clear, actionable insights.
+🔍 Data Analytics: Diving deep into numbers to uncover trends, patterns, and opportunities.
+🧼 Data Cleaning & Modeling: Ensuring data integrity through standardization, deduplication, and other essential techniques for high-quality analysis.
+📝 Reporting & Dashboarding: Developing dashboards that tell a story, making data engaging and informative.
+📈 Business Intelligence: Enabling strategic decisions through data-driven insights.
+📖 Data Storytelling: Transforming numbers into narratives that resonate with audiences.
+
+📍 Technical Skills
+📐 Power BI: Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.
+🛢️ SQL: Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.
+📊 MS Excel: Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.
+🐍 Python: Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.
+🛠️ Other Tools: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.
 
 ---
 
